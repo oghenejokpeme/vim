@@ -2,9 +2,9 @@
 inoremap jk <ESC>
 let mapleader = "<Space>"
 filetype plugin indent on
+syntax on
 set autoindent
 set number
-syntax on
 set ic
 set hls
 set lbr
