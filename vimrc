@@ -11,6 +11,7 @@ let mapleader = "<Space>"
 """ Spaces and Tabs
 set tabstop=4 "number of visual spaces per TAB
 set softtabstop=4 "number of spaces in TAB when editing
+set shiftwidth=4 "controls depth of indentation
 set expandtab "tabs are spaces
 "set autoindent
 
